@@ -1,0 +1,129 @@
+{
+  "slug": "memorable_openings",
+  "title": "Memorable Openings",
+  "updated_at": "2026-09-16",
+  "ids": [
+    154587,
+    151801,
+    143866,
+    127230,
+    113415,
+    21355,
+    101922,
+    20,
+    1735,
+    140960,
+    151807,
+    20605,
+    16498,
+    5114,
+    21519,
+    105310,
+    30,
+    1,
+    21087,
+    1535
+  ],
+  "items": [
+    {
+      "id": 154587,
+      "title": "Frieren: Beyond Journey's End",
+      "song": "Yuusha - YOASOBI"
+    },
+    {
+      "id": 151801,
+      "title": "Mashle: Magic and Muscles",
+      "song": "Bling-Bang-Bang-Born - Creepy Nuts"
+    },
+    {
+      "id": 143866,
+      "title": "Oshi no Ko",
+      "song": "Idol - YOASOBI"
+    },
+    {
+      "id": 127230,
+      "title": "Chainsaw Man",
+      "song": "Kick Back - Kenshi Yonezu"
+    },
+    {
+      "id": 113415,
+      "title": "Jujutsu Kaisen",
+      "song": "Kaikai Kitan - Eve / SPECIALZ - King Gnu"
+    },
+    {
+      "id": 21355,
+      "title": "Re:Zero - Starting Life in Another World",
+      "song": "Redo - Konomi Suzuki / Paradisus-Paradoxum"
+    },
+    {
+      "id": 101922,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "song": "Gurenge - LiSA / Zankyosanka - Aimer"
+    },
+    {
+      "id": 20,
+      "title": "Naruto",
+      "song": "GO!!! - FLOW / Haruka Kanata - AKFG"
+    },
+    {
+      "id": 1735,
+      "title": "Naruto Shippuden",
+      "song": "Silhouette - KANA-BOON / Blue Bird - Ikimonogakari"
+    },
+    {
+      "id": 140960,
+      "title": "Spy x Family",
+      "song": "Mixed Nuts - Official HIGE DANDism"
+    },
+    {
+      "id": 151807,
+      "title": "Solo Leveling",
+      "song": "LEveL - SawanoHiroyuki[nZk]:TXT"
+    },
+    {
+      "id": 20605,
+      "title": "Tokyo Ghoul",
+      "song": "Unravel - TK from Ling tosite sigure"
+    },
+    {
+      "id": 16498,
+      "title": "Attack on Titan",
+      "song": "Guren no Yumiya - Linked Horizon / The Rumbling - SiM"
+    },
+    {
+      "id": 5114,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "song": "Again - YUI"
+    },
+    {
+      "id": 21519,
+      "title": "Mob Psycho 100",
+      "song": "99 - MOB CHOIR"
+    },
+    {
+      "id": 105310,
+      "title": "Fire Force",
+      "song": "Inferno - Mrs. GREEN APPLE"
+    },
+    {
+      "id": 30,
+      "title": "Neon Genesis Evangelion",
+      "song": "A Cruel Angel's Thesis - Yoko Takahashi"
+    },
+    {
+      "id": 1,
+      "title": "Cowboy Bebop",
+      "song": "Tank! - The Seatbelts"
+    },
+    {
+      "id": 21087,
+      "title": "One Punch Man",
+      "song": "The HERO!! - JAM Project"
+    },
+    {
+      "id": 1535,
+      "title": "Death Note",
+      "song": "The WORLD - Nightmare"
+    }
+  ]
+}
